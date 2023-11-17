@@ -1,0 +1,21 @@
+# ninja log v5
+1	8	1700183662451419827	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b57a4f8ac0362213
+1	8	1700183662451419827	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	b57a4f8ac0362213
+8	54672	1700183717113480565	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	816f1d3f5565731f
+8	54672	1700183717113480565	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	816f1d3f5565731f
+54672	55374	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	87008b4c997e52cd
+54672	55374	0	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	87008b4c997e52cd
+55374	55382	1700183717823463066	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	720f8c4060d5bba1
+55374	55382	1700183717823463066	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	720f8c4060d5bba1
+55382	55389	1700183717830129568	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	55e01340bfdfe0c3
+55382	55389	1700183717830129568	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	55e01340bfdfe0c3
+55389	55396	1700183717840129322	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	d6dee1244ba4e2b0
+55389	55396	1700183717840129322	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	d6dee1244ba4e2b0
+55396	55404	1700183717846795824	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e9f704644daa916e
+55396	55404	1700183717846795824	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	e9f704644daa916e
+55404	55411	1700183717853462326	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	fa4c7bdb65379358
+55404	55411	1700183717853462326	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	fa4c7bdb65379358
+55411	55420	1700183717863462080	CMakeFiles/sfml-populate-complete	6a85d0d84f4d331a
+55411	55420	1700183717863462080	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	6a85d0d84f4d331a
+55411	55420	1700183717863462080	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	6a85d0d84f4d331a
+55411	55420	1700183717863462080	/home/whale/Projects/MetalSplinterManGame/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	6a85d0d84f4d331a
